@@ -1,0 +1,2 @@
+﻿instScreen.started,instScreen.stopped,recall_text.started,recall_text.stopped,endScreen.started,endScreen.stopped,SubID,Gender,Age,Phase,Movie,SubID,Gender,Age,Phase(1=Action Segmentation; 2=Action Naming; 3=Goal Segmentation; 4=Goal Naming),Movie(0/1/2),Exp Name,
+10.629455608781427,11.695795956067741,16.412456187885255,100.92077354202047,103.07782588666305,104.46246489696205,2,f,19,2,0,2,f,19,,,,
